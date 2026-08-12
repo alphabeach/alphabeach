@@ -14,7 +14,7 @@ I am a developer focused on shipping clean web architecture and bridging the gap
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jurylebosada&show_icons=true&theme=dark&hide_border=false" alt="Andrew's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=alphabeach&show_icons=true&theme=dark&hide_border=false" alt="Andrew's GitHub Stats" />
 </div>
 
 ---
