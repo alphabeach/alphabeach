@@ -24,12 +24,12 @@
 **Frontend & Client-Side** <br>
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,react" />
 
-<br><br>
+<br>
 
 **Backend & Server-Side** <br>
 <img src="https://skillicons.dev/icons?i=php,nodejs,cs,visualstudio" />
 
-<br><br>
+<br>
 
 **Frameworks & Cloud Architecture** <br>
 <img src="https://skillicons.dev/icons?i=laravel,flask,django,dotnet,azure" />
