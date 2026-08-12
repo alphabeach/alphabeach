@@ -12,7 +12,7 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=alphabeach&show_icons=true&theme=dark&hide_border=false&v=1" alt="Andrew's GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=alphabeach&theme=default&hide_border=true" alt="Andrew's GitHub Stats" />
 </div>
 
 ---
