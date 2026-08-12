@@ -12,7 +12,18 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=alphabeach&theme=default&hide_border=true" alt="Andrew's GitHub Stats" />
+  <!-- Main Stats (With the "C" Rank Hidden) -->
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=alphabeach&show_icons=true&theme=dark&hide_border=false&hide_rank=true" alt="Andrew's GitHub Stats" />
+  
+  <!-- GitHub Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alphabeach&theme=dark&hide_border=false" alt="Andrew's GitHub Streak" />
+</div>
+
+<br>
+
+<div align="center">
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=alphabeach&layout=compact&theme=dark&hide_border=false" alt="Andrew's Top Languages" />
 </div>
 
 ---
