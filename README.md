@@ -11,14 +11,15 @@
 
 ### 💻 Tech Stack 
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,react,tailwind,php,nodejs,express,cs,dotnet,laravel,flask,django,azure,visualstudio,figma" />
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,react,tailwind,php,nodejs,express,cs,dotnet,laravel,flask,django,azure,visualstudio,figma" />
+</div>
 
 ---
 
 ### 📊 GitHub Activity & Languages
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alphabeach&theme=react-dark&hide_border=true&bg_color=0D1117" width="100%" alt="Activity Graph" />
-  <br>
-  <img src="https://streak-stats.demolab.com?user=alphabeach&theme=react-dark&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=alphabeach&show_icons=true&theme=default&hide_border=false" height="165" alt="alphabeach's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alphabeach&layout=compact&theme=default&hide_border=false" height="165" alt="alphabeach's Top Languages" />
 </div>
