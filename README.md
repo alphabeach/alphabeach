@@ -20,6 +20,6 @@
 ### 📊 GitHub Activity & Languages
 
 <div align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=alphabeach&show_icons=true&theme=default&hide_border=false" height="165" alt="alphabeach's GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api?username=alphabeach&show_icons=true&theme=default&hide_border=false&commits_year=2026" height="165" alt="alphabeach's 2026 GitHub Stats" />
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=alphabeach&layout=compact&theme=default&hide_border=false" height="165" alt="alphabeach's Top Languages" />
 </div>
