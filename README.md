@@ -11,19 +11,13 @@
 
 ### 💻 Tech Stack 
 
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,react,tailwind,php,nodejs,express,cs,dotnet,laravel,flask,django,azure,visualstudio,figma" />
+
+---
+
+### 📊 GitHub Activity & Languages
+
 <div align="center">
-
-**Frontend & Client-Side** <br>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,react" />
-
-<br>
-
-**Backend & Server-Side** <br>
-<img src="https://skillicons.dev/icons?i=php,nodejs,cs,visualstudio" />
-
-<br>
-
-**Frameworks & Cloud Architecture** <br>
-<img src="https://skillicons.dev/icons?i=laravel,flask,django,dotnet,azure" />
-
+  <img src="https://github-readme-stats.vercel.app/api?username=alphabeach&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alphabeach&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9" height="165" alt="Top Languages" />
 </div>
