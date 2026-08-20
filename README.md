@@ -18,6 +18,7 @@
 ### 📊 GitHub Activity & Languages
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alphabeach&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alphabeach&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9" height="165" alt="Top Languages" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alphabeach&theme=react-dark&hide_border=true&bg_color=0D1117" width="100%" alt="Activity Graph" />
+  <br>
+  <img src="https://streak-stats.demolab.com?user=alphabeach&theme=react-dark&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </div>
