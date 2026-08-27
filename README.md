@@ -11,7 +11,7 @@
 
 ---
 
-### 💻 Core Tech Stack 
+### 💻 Tech Stack 
 
 **Applied ML & Data Science**<br>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -19,13 +19,8 @@
 <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
 <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
 <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-<img src="https://img.shields.io/badge/XGBoost-141414?style=for-the-badge" />
-<img src="https://img.shields.io/badge/LightGBM-141414?style=for-the-badge" />
-<img src="https://img.shields.io/badge/SHAP-141414?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Matplotlib-141414?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Seaborn-141414?style=for-the-badge" />
 
-**Web & Cloud Architecture**<br>
+**Core Engineering Stack**<br>
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
